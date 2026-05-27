@@ -1,4 +1,4 @@
-# Geometry-based Discovery of Calcium Battery Cathodes Accelerated by Foundational Machine-Learned Models
+# High-throughput Ca-cathode screening 
 
 This repository contains the data and workflow of screening pipeline that identifies promising Ca-ion battery cathode materials. The workflow combines structural data from the Materials Project (MP) with machine-learning interatomic potentials (MACE-MP-0, Orb-v3) and a transfer-learning (TL) migration-barrier model.
 
