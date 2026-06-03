@@ -13,15 +13,16 @@ DFT-NEB calculation results for the selected final candidate frameworks. These f
 
 Relaxed charged and discharged crystal structures of the final screened candidates, including input and optimized geometries.
 
-#### summary_ca_cathode/:
-
-Comprehensive summary data for screened candidates, including thermodynamic, voltage, and migration-barrier and other important metrics, prior to migration-barrier-based candidate selection
-
 
 #### mp_queried_compounds/:
 The MP material_id of every structure queried from the MP in this project, providing a complete record of the initial search space.
 
 #### scripts/:
 A Jupyter notebook implementing the entire screening pipeline for Ca-cathode discovery.
+
+
+#### summary_ca_cathode/:
+
+Comprehensive summary data for screened candidates, including thermodynamic, voltage, and migration-barrier and other important metrics, prior to migration-barrier-based candidate selection
 
 In case you use any of the data or scripts made available in this repository, we will appreciate a citation to our manuscript at [arXiv](https://arxiv.org).
