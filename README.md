@@ -11,7 +11,7 @@ DFT-NEB calculation results for the selected final candidate frameworks. These f
 
 #### final_candidate_structures/:
 
-Relaxed charged and discharged crystal structures of the final screened candidates, including input and optimized geometries.
+MACE-MP-0 relaxed charged and discharged crystal structures of the final screened candidates, including input and optimized geometries.
 
 
 #### mp_queried_compounds/:
