@@ -1,6 +1,6 @@
 # High-throughput Ca-cathode screening 
 
-This repository contains the data and workflow of a screening pipeline that identifies promising Ca-battery positive electrode (cathode) materials, which is part of the manuscript titled, "Geometry-based Discovery of Calcium Battery Cathodes Accelerated by Foundational Machine-Learned Models". The manuscript is currently under review but a pre-print can be found at [arXiv](https://arxiv.org). The workflow combines structural data from the Materials Project (MP) with foundational machine-learned interatomic potentials (MACE-MP-0, Orb-v3) and a transfer-learning (TL) migration-barrier model.
+This repository contains the data and workflow of a screening pipeline that identifies promising Ca-battery positive electrode (cathode) materials, which is part of the manuscript titled, "Geometry-based Discovery of Calcium Battery Cathodes Accelerated by Foundational Machine-Learned Models". The manuscript is currently under review but a pre-print can be found at [arXiv](http://arxiv.org/abs/2605.29029). The workflow combines structural data from the Materials Project (MP) with foundational machine-learned interatomic potentials (MACE-MP-0, Orb-v3) and a transfer-learning (TL) migration-barrier model.
 
 ## Repository Structure
 #### NEB_MACE_Orb-v3/:
@@ -25,4 +25,4 @@ A Jupyter notebook implementing the entire screening pipeline for Ca-cathode dis
 
 Comprehensive summary data for screened candidates, including thermodynamic, voltage, and migration-barrier and other important metrics, prior to migration-barrier-based candidate selection
 
-In case you use any of the data or scripts made available in this repository, we will appreciate a citation to our manuscript at [arXiv](https://arxiv.org).
+In case you use any of the data or scripts made available in this repository, we will appreciate a citation to our manuscript at [arXiv](http://arxiv.org/abs/2605.29029).
